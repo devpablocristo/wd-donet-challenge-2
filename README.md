@@ -13,3 +13,7 @@ Refactor **Magic8BallSimulator**. Make sure it is not loosely coupled. Leverage 
 #### Challenge #2
 
 Cover your work with tests. Leverage mocking techniques as well.
+
+#### You have 30 minutes to finish the tasks
+
+Happy Coding!
